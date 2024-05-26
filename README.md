@@ -7,4 +7,4 @@ This is a modern, responsive simple company website built with React and Tailwin
 
 # Preview 
 
-![ScreenShot](/screenshot.png)
+![ScreenShot](/screenshot.jpeg)
