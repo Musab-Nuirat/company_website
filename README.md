@@ -1,8 +1,10 @@
-# React + Vite
+# OverView
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## React + Tailwind
 
-Currently, two official plugins are available:
+This is a modern, responsive simple company website built with React and Tailwind CSS. It features a clean, minimalist design with a focus on usability and conversion. The site includes a homepage with featured overview, features, about pages with serivces and pricing. Tailwind CSS is used for rapid prototyping and consistent styling across the application. The codebase is well-organized, documented, and easy to customize for other company businesses. Feel free to use this as a starting point for your own ecommerce project and modify it to fit your specific needs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Preview 
+
+![ScreenShot](/screenshot.jpeg)
