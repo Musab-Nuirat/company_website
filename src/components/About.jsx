@@ -4,7 +4,7 @@ import aboutImg2 from "../assets/image2.png";
 
 const About = () => {
   return (
-    <div className="md:px-14 p-4 max-w-s mx-auto space-y-6">
+    <div className="md:px-14 p-4 max-w-s mx-auto space-y-6" id="about">
       {/* 1st part */}
       <div className="flex flex-col md:flex-row justify-between items-center gap-8">
         <div className="w-1/2">
